@@ -1,0 +1,48 @@
+# ==========================================
+# BACKEND (Python/Django)
+# ==========================================
+sales_monitor_backend/venv/
+sales_monitor_backend/env/
+sales_monitor_backend/__pycache__/
+sales_monitor_backend/**/__pycache__/
+sales_monitor_backend/**/*.pyc
+sales_monitor_backend/**/*.pyo
+sales_monitor_backend/**/*.pyd
+sales_monitor_backend/.env
+sales_monitor_backend/db.sqlite3
+sales_monitor_backend/staticfiles/
+sales_monitor_backend/media/
+sales_monitor_backend/.pytest_cache/
+sales_monitor_backend/.coverage
+sales_monitor_backend/htmlcov/
+sales_monitor_backend/*.log
+
+# ==========================================
+# FRONTEND (Node/React)
+# ==========================================
+sales-monitor-frontend/node_modules/
+sales-monitor-frontend/dist/
+sales-monitor-frontend/build/
+sales-monitor-frontend/.env
+sales-monitor-frontend/.env.local
+sales-monitor-frontend/.env.production
+sales-monitor-frontend/.vite/
+sales-monitor-frontend/coverage/
+sales-monitor-frontend/*.log
+
+# ==========================================
+# IDEs y Editores
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ==========================================
+# Sistema Operativo
+# ==========================================
+Thumbs.db
+.DS_Store
+desktop.ini
